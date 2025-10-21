@@ -1,0 +1,15 @@
+{
+  "Persona": {
+    "Nombre":"Pepe",
+    "Edad": "28",
+    "Email": "Pepe28@pepemail.pep"
+  },
+  "Dirección": {
+    "Calle": "Pepestreet",
+    "Ciudad": "Pepecity",
+    "CodigoPostal": "12121"
+  },
+  "Aficiones": {
+    "Aficion":[]
+  }
+}

@@ -1,0 +1,14 @@
+{
+
+  "$schema": "Agenda.schema.json",
+  "agenda": {
+    "nombre_completo": {
+      "nombre": ["Pepe", "Luis"],
+      "apellido1": "Gonzáles",
+      "apellido2": ""
+    },
+      "apodo": "Pepito Grillo"
+  }
+}
+
+

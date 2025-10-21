@@ -1,0 +1,127 @@
+{
+
+  "oferta": {
+    "vehiculo": [
+      {
+        "marca": "Marca: Ford",
+        "modelo": {
+          "@color": "blanco",
+          "#text": "Modelo: Focus RS 2017"
+        },
+        "motor": {
+          "@combustible": "gasolina",
+          "#text": "Motor: duratorc 14"
+        },
+        "matricula": "Matricula: 1234AAA",
+        "kilometros": "Kilometros: 12500",
+        "precio_inicial": "El precio inicial es de 12500€",
+        "precio_oferta": "Precio oferta 10000€",
+        "extra": [
+          {
+            "@valor": "250",
+            "#text": "pintura metalizada"
+          },
+          {
+            "@valor": "300",
+            "#text": "llantas"
+          }
+        ],
+        "foto": [
+          { "@imagen": "fordblanco" },
+          { "@imagen": "fordblanco2" }
+        ]
+      },
+      {
+        "marca": "Marca: MERCEDES-BENZ",
+        "modelo": {
+          "@color": "champagne",
+          "#text": "Modelo: Clase CLA"
+        },
+        "motor": {
+          "@combustible": "diesel",
+          "#text": "CLA 200 d, 136cv"
+        },
+        "matricula": "Matricula: 0000BBB",
+        "kilometros": "Kilometros: 3500",
+        "precio_inicial": "El precio inicial es de 22500€",
+        "precio_oferta": "Precio oferta 20000€",
+        "extra": [
+          {
+            "@valor": "150",
+            "#text": "Navegador Garmin MAP PILOT"
+          },
+          {
+            "@valor": "350",
+            "#text": "Techo corredizo panoramico"
+          }
+        ],
+        "foto": [
+          { "@imagen": "mercedes" },
+          { "@imagen": "mercedes2" }
+        ]
+      },
+      {
+        "marca": "Marca: Audi",
+        "modelo": {
+          "@color": "blanco",
+          "#text": "Modelo: A5 S line coupe"
+        },
+        "motor": {
+          "@combustible": "gasolina",
+          "#text": "2.0 TDI 190CV"
+        },
+        "matricula": "Matricula: 9999KKK",
+        "kilometros": "Kilometros: 100",
+        "precio_inicial": "El precio inicial es de 36500€",
+        "precio_oferta": "Precio oferta 35000€",
+        "extra": [
+          {
+            "@valor": "170",
+            "#text": "Camara de marcha atras"
+          },
+          {
+            "@valor": "180",
+            "#text": "Tapiceria en cuero Milano"
+          }
+        ],
+        "foto": [
+          { "@imagen": "audiA5" },
+          { "@imagen": "audiA52" }
+        ]
+      },
+      {
+        "marca": "Maraca: Opel",
+        "modelo": {
+          "@color": "gris",
+          "#text": "Modelo: Astra"
+        },
+        "motor": {
+          "@combustible": "diesel",
+          "#text": "Motor: Turbo 2.0"
+        },
+        "matricula": "Matricula: 1235AAA",
+        "kilometros": "Kilometros: 125000",
+        "precio_inicial": "El precio inicial es de 10000€",
+        "precio_oferta": "Precio oferta 9000€",
+        "extra": [
+          {
+            "@valor": "250",
+            "#text": "pintura metalizada"
+          },
+          {
+            "@valor": "200",
+            "#text": "spoiler trasero"
+          },
+          {
+            "@valor": "500",
+            "#text": "climatizador"
+          }
+        ],
+        "foto": [
+          { "@imagen": "opel" },
+          { "@imagen": "opel2" }
+        ]
+      }
+    ]
+  }
+}

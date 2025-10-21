@@ -1,0 +1,94 @@
+{
+  "libros": {
+    "libreria": [
+      {
+        "nombrelibreria": "Babel",
+        "libro": [
+          {
+            "ISBN": "9788420542454",
+            "titulo": "Curso De Xml",
+            "nivel": "básico",
+            "autor": "Gregorio Martín",
+            "editorial": "Prentice Hall",
+            "fecha_publicacion": "03/2005",
+            "web": "",
+            "precio": {
+              "@moneda": "Euro",
+              "#text": "29,90"
+            }
+          },
+          {
+            "ISBN": "9788441518261",
+            "titulo": "XML (Edición revisada y ampliada 2005)",
+            "nivel": "básico",
+            "autor": "Óscar González",
+            "editorial": "Anaya Multimedia",
+            "fecha_publicacion": "03/2005",
+            "web": "",
+            "precio": {
+              "@moneda": "Euro",
+              "#text": "14,00"
+            }
+          },
+          {
+            "ISBN": "9788441515765",
+            "titulo": "XML",
+            "nivel": "intermedio",
+            "autor": "Juan Diego Gutiérrez Gallardo",
+            "editorial": "Anaya Multimedia",
+            "fecha_publicacion": "04/2005",
+            "web": "",
+            "precio": {
+              "@moneda": "Euro",
+              "#text": " 25,4"
+            }
+          }
+        ]
+      },
+      {
+        "nombrelibreria": "La casa del libro",
+        "libro": [
+          {
+            "ISBN": "9782746049581",
+            "titulo": " XML PRACTICO. BASES ESENCIALES, CONCEPTOS Y CASOS PRACTICOS ",
+            "nivel": "básico",
+            "autor": " BOULANGER, THIERRY",
+            "editorial": "ENI",
+            "fecha_publicacion": "2005",
+            "web": "",
+            "precio": {
+              "@moneda": "Euro",
+              "#text": "26,96"
+            }
+          },
+          {
+            "ISBN": "9788441511866",
+            "titulo": "PROGRAMACION CON XML",
+            "nivel": "básico",
+            "autor": "EITO BRUN, RICARDO",
+            "editorial": "ANAYA MULTIMEDIA",
+            "fecha_publicacion": "2001",
+            "web": "",
+            "precio": {
+              "@moneda": "Euro",
+              "#text": "45,55"
+            }
+          },
+          {
+            "ISBN": "9788441511866",
+            "titulo": "PROGRAMACION CON XML",
+            "nivel": "básico",
+            "autor": "EITO BRUN, RICARDO",
+            "editorial": "ANAYA MULTIMEDIA",
+            "fecha_publicacion": "2001",
+            "web": "",
+            "precio": {
+              "@moneda": "Euro",
+              "#text": "45,55"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
