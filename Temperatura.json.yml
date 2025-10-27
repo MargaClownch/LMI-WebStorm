@@ -1,0 +1,13 @@
+---
+registro_temperatura:
+  provincia: Zamora
+  fecha: 2022-01-09
+  temp_min: -5
+  temp_max: 4
+  incidencias:
+    - incidencia: Frio
+      Severidad: alta
+    - incidencia: nieve
+      Severidad: alta
+    - incidencia: nieve
+      Severidad: media
