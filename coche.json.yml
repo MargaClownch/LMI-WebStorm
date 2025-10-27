@@ -1,0 +1,22 @@
+---
+oferta:
+  - Focus RS 2017:
+     Marca: Ford
+     Motor: duratorc 14
+     Matricula: 1234AAA
+     Kilometros: 12500
+     Precio_Inicial: 12500€
+     Oferta_Inicial: 10000€
+     Extra: Pintura metalizada
+     Foto: JPG
+
+  - Clase CLA:
+      Marca: MERCEDES-BENZ
+      Motor: CLA 200 d, 136cv
+      Matricula: 0000BBB
+      Kilometro: 3500
+      Precio_inicial: 22500€
+      Oferta_Inicial: 20000€
+      Extra: Navegador Garmin MAP PILOT
+      Foto: JPG2
+...

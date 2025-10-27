@@ -1,0 +1,23 @@
+---
+libros:
+  Babel:
+    - Curso de XML:
+        ISBN: 9788420542454
+        nivel: básico
+        autor: Gregorio Martín
+        editorial: Gregorio Martín
+        fecha_publicacion: 03/2005
+        web:
+        precio: 29,90€
+  La_Casa_Del_Libro:
+    - XML:
+        ISBN: 9788441515765
+        nivel: intermedio
+        autor: Juan Diego Gutiérrez Gallardo
+        editorial: Anaya Multimedia
+        fecha_publicacion: 04/2005
+        web:
+        precio: 25,40€
+
+
+
