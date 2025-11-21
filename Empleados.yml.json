@@ -1,0 +1,42 @@
+{
+ "empresa": {
+   "nombre": "Technova",
+   "sede": "Madrid",
+   "empleados": [
+     {
+       "id": 101,
+       "Nombre": "Laura Gomez",
+       "Puesto": "Desarrolladora Backend",
+       "Habilidades": ["Python", "Fast API", "Postgre SQL"],
+       "Fecha_contratacion": "2020-05-14",
+       "Activo": true
+   },
+     {
+       "id": 102,
+       "Nombre": "Laura Gomez",
+       "Puesto": "Desarrolladora Backend",
+       "Habilidades": ["Python", "Fast API", "Postgre SQL"],
+       "Fecha_contratacion": "2020-05-14",
+       "Activo": true
+     },
+     {
+       "id": 103,
+       "Nombre": "Laura Gomez",
+       "Puesto": "Desarrolladora Backend",
+       "Habilidades": ["Python", "Fast API", "Postgre SQL"],
+       "Fecha_contratacion": "2020-05-14",
+       "Activo": true
+
+     }
+]
+
+
+
+ }
+
+
+
+
+
+
+}
